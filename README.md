@@ -65,9 +65,9 @@ Improving    Anything I can make faster, cleaner, or more reliable
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=skaz101&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaz101&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
