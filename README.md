@@ -43,7 +43,7 @@ I enjoy working across both software and systems, from writing code to configuri
 ### Systems & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,nginx" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker,cloudflare,nginx" />
 </p>
 
 ---
