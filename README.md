@@ -14,9 +14,11 @@ I build software, work with hardware, run servers, and spend a lot of time figur
 
 I'm interested in software development, Linux, robotics, cybersecurity, networking, and infrastructure.
 
-Most of my projects start because I want to understand something better, automate a problem, or build a better version of something I already use.
+Most of my projects start because I want to understand something better, automate a problem, or build something useful.
 
 I enjoy working across both software and systems, from writing code to configuring servers, networks, and hardware.
+
+---
 
 ## Tech Stack
 
@@ -38,19 +40,27 @@ I enjoy working across both software and systems, from writing code to configuri
   <img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,nginx" />
 </p>
 
+---
+
 ## What I Work On
 
-**Software Development**
+### Software Development
+
 Java, Python, JavaScript, web applications, APIs, automation, and utility tools.
 
-**Robotics**
+### Robotics
+
 FRC robot software, control systems, sensors, vision, autonomous routines, and hardware integration.
 
-**Systems & Infrastructure**
+### Systems & Infrastructure
+
 Linux, virtualization, Docker, networking, DNS, reverse proxies, VPNs, monitoring, and self-hosted services.
 
-**Cybersecurity**
-Network security, Linux security, system hardening, scanning, and understanding how systems can be attacked and protected.
+### Cybersecurity
+
+Network security, Linux security, system hardening, scanning, and learning how systems can be attacked and protected.
+
+---
 
 ## Current Focus
 
@@ -61,15 +71,21 @@ Learning     Cybersecurity, networking, and infrastructure
 Improving    Anything I can make faster, cleaner, or more reliable
 ```
 
+---
+
+## Selected Work
+
+A lot of my projects come from things I wanted to learn, improve, or build for myself.
+
+You can find some of my main projects in the pinned repositories below.
+
+---
+
 ## GitHub
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=skaz101&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaz101&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
+<a href="https://github.com/skaz101">
+  <img src="https://img.shields.io/badge/GitHub-skaz101-181717?style=for-the-badge&logo=github" />
+</a>
 
 ---
 
