@@ -20,7 +20,7 @@ I enjoy working across both software and systems, from writing code to configuri
 
 ---
 
-## Tech Stack
+## Tech Stack 📚
 
 ### Languages
 
