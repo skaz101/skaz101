@@ -31,7 +31,8 @@ I enjoy working across both software and systems, from writing code to configuri
 ### Web & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,pycharm,zed" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,pycharm" />
+  <img src="https://cdn.simpleicons.org/zedindustries/18181B" alt="Zed" width="48" height="48" />
 </p>
 
 ### Systems & Infrastructure
