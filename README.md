@@ -32,7 +32,12 @@ I enjoy working across both software and systems, from writing code to configuri
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,git,github,pycharm" />
-  <img src="https://cdn.simpleicons.org/zedindustries/18181B" alt="Zed" width="48" height="48" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/zedindustries/FFFFFF">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/zedindustries/18181B">
+    <img src="https://cdn.simpleicons.org/zedindustries/18181B" alt="Zed" width="48" height="48">
+  </picture>
 </p>
 
 ### Systems & Infrastructure
